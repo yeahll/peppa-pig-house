@@ -1,0 +1,65 @@
+div {
+  position:absolute;
+}
+#background {
+  width:1000px;
+  height:800px;
+  background:skyblue;
+  
+}
+#house{
+  width:800px;
+  height:400px;
+  background:beige;
+  top:300px;
+  left:100px;
+  
+   
+}
+#roof
+{
+  width:0;
+    height:0;
+  border-left:400px solid transparent;
+   border-right:400px solid transparent;
+   border-bottom:200px solid red;
+  top:100px;
+  left:100px;
+}
+#door
+{
+  width:100px;
+  height:200px;
+   background:brown;
+  top:500px;
+  left:700px;
+  
+}
+#window1
+{
+  width:100px;
+  height:100px;
+  background:grey;
+  top:500px;
+  left:300px;
+  
+  
+}
+#window2
+{
+  width:100px;
+  height:100px;
+  background:grey;
+  top:500px;
+  left:500px;
+  
+  
+}
+#text
+{
+  width:1000px;
+ top:700px;
+  text-align:center;
+  font-size:32px;
+}
+
